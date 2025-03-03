@@ -11,7 +11,8 @@
                 "dataEvento",
                 "alimentacao",
                 "localDesejado",
-                "horaInicio"
+                "horaInicio",
+                "horaFim"
             ]
         }
     ],
