@@ -1,0 +1,18 @@
+{
+  "primary": "transparent",
+  "primaryDark": "purple-600",
+  "secondary": "purple-500",
+  "accent": "yellow-400",
+  "success": "green-500",
+  "warning": "yellow-500",
+  "error": "red-500",
+  "info": "blue-400",
+  "background": "gray-100",
+  "surface": "white",
+  "surfaceAlt": "gray-50",
+  "textPrimary": "gray-900",
+  "textSecondary": "gray-600",
+  "textTertiary": "gray-400",
+  "border": "gray-200",
+  "borderFocus": "blue-300"
+}
